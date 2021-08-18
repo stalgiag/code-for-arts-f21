@@ -5,7 +5,7 @@ category: "SCHEDULE"
 
 <details>
 <summary>
-CLASS 01 | 02-04
+CLASS 01 | 08-31
 </summary>
 
 <div class = "class-schedule-details">
@@ -44,7 +44,13 @@ CLASS 01 | 02-04
 
 <details>
 <summary>
-CLASS 02 | 02-11
+NO CLASS 09-07 (LABOR DAY)
+</summary>
+</details>
+
+<details>
+<summary>
+CLASS 02 | 09-14
 </summary>
 
 <div class = "class-schedule-details">
@@ -78,7 +84,7 @@ CLASS 02 | 02-11
 
 <details>
 <summary>
-CLASS 03 | 02-18
+CLASS 03 | 09-21
 </summary>
 
 <div class = "class-schedule-details">
@@ -110,7 +116,7 @@ CLASS 03 | 02-18
 
 <details>
 <summary>
-CLASS 04 | 02-25
+CLASS 04 | 09-28
 </summary>
 
 <div class = "class-schedule-details">
@@ -146,7 +152,7 @@ CLASS 04 | 02-25
 
 <details>
 <summary>
-CLASS 05 | 03-04
+CLASS 05 | 10-05
 </summary>
 
 <div class = "class-schedule-details">
@@ -184,7 +190,7 @@ CLASS 05 | 03-04
 
 <details>
 <summary>
-CLASS 06 | 03-11
+CLASS 06 | 10-12
 </summary>
 
 <div class = "class-schedule-details">
@@ -220,7 +226,7 @@ CLASS 06 | 03-11
 
 <details>
 <summary>
-CLASS 07 | 03-18
+CLASS 07 | 10-19
 </summary>
 
 <div class = "class-schedule-details">
@@ -259,7 +265,7 @@ CLASS 07 | 03-18
 
 <details>
 <summary>
-CLASS 08 | 03-25
+CLASS 08 | 10-26
 </summary>
 
 <div class = "class-schedule-details">
@@ -286,15 +292,10 @@ CLASS 08 | 03-25
 
 </details>
 
-<details>
-<summary>
-NO CLASS 04-01 (SPRING RECESS)
-</summary>
-</details>
 
 <details>
 <summary>
-CLASS 09 | 04-08
+CLASS 09 | 11-02
 </summary>
 
 <div class = "class-schedule-details">
@@ -315,7 +316,7 @@ CLASS 09 | 04-08
 
 <details>
 <summary>
-CLASS 10 | 04-15
+CLASS 10 | 11-09
 </summary>
 
 <div class = "class-schedule-details">
@@ -349,7 +350,7 @@ CLASS 10 | 04-15
 
 <details>
 <summary>
-CLASS 11 | 04-22
+CLASS 11 | 11-16
 </summary>
 
 <div class = "class-schedule-details">
@@ -366,7 +367,7 @@ CLASS 11 | 04-22
 
 <details>
 <summary>
-CLASS 12 | 04-29
+CLASS 12 | 11-23
 </summary>
 
 <div class = "class-schedule-details">
@@ -383,7 +384,7 @@ CLASS 12 | 04-29
 
 <details>
 <summary>
-CLASS 13 | 05-06
+CLASS 13 | 11-30
 </summary>
 
 <div class = "class-schedule-details">
@@ -400,7 +401,7 @@ CLASS 13 | 05-06
 
 <details>
 <summary>
-CLASS 14 | 05-13
+CLASS 14 | 12-07
 </summary>
 
 
@@ -418,7 +419,7 @@ CLASS 14 | 05-13
 
 <details>
 <summary>
-CLASS 15 | 05-20
+CLASS 15 | 12-14
 </summary>
 
 <div class = "class-schedule-details">
